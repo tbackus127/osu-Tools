@@ -3,7 +3,7 @@ A collection of tools for osu!.
 
 ## How to Use
 
-(To be decided)
+Compile and run this program how you normally would for Eclipse projects. Make sure the first runtime argument is the path to the osu!.db file, and the second argument is the path to the hashed replays' directory.
 
 ## List of Tools
 
